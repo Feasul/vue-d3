@@ -12,8 +12,8 @@
     "url": "https://github.com/jaredreich/vue-d3.git"
   },
   "dependencies": {
-    "d3": "^4.0.0",
-    "vue": "^1.0.21"
+    "d3": "^5.15.1",
+    "vue": "^2.6.11"
   },
   "devDependencies": {}
 }
